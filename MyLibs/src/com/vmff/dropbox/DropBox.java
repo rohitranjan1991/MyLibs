@@ -42,7 +42,6 @@ public class DropBox {
 	// //////////////////////////////////////////////////////////////////////////////////////////////////////////
 	public DbxAccountManager connectToDropBox() {
 
-	
 		try {
 			mDbxAcctMgr = DbxAccountManager.getInstance(con, App_key,
 					App_Secret);

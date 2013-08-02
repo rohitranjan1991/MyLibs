@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Aug 02 19:34:34 GMT+05:30 2013
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=false
+onejar.checkbox=false
+jarname=/Users/ankitvyaseng85/Rohit/myGit/MyLibsTests/MyLibsTests/libs/MyLibs_fat.jar
+manifest.mergeall=false
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=<po|MyLibs>~com/~mylibs/;<jar|android-support-v4.jar>;<jar|dropbox-sync-sdk-android.jar>
+includes=
